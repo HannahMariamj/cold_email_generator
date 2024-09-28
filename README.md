@@ -11,6 +11,5 @@ The Cold Email Generator is a web application that assists service-based compani
 - **Streamlit**: For building the web interface
 
 ##run this to start the streamlit application:
-'''cmd
+```bash
 streamlit run app/main.py
-'''
