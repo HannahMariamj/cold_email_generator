@@ -10,6 +10,6 @@ The Cold Email Generator is a web application that assists service-based compani
 - **LLM (Llama 3.1-70B Versatile)**: The language model used for generating email content
 - **Streamlit**: For building the web interface
 
-##run this to start the streamlit application:
+## run this to start the streamlit application:
 ```bash
 streamlit run app/main.py
